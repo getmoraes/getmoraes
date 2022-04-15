@@ -25,5 +25,5 @@
 
 <h3 align="right">Conecte comigo:</h3>
 <p align="right">
-<a href="https://linkedin.com/in//in/getmoraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getmoraes/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/getmoraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getmoraes/" height="30" width="40" /></a>
 </p>
